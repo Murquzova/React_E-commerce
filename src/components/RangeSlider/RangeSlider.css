@@ -1,0 +1,16 @@
+.MuiSlider-thumb {
+  margin-top: -5px !important;
+  margin-left: -3px !important;
+}
+.slider {
+  padding: 0 20px !important;
+  margin-top: 30px !important;
+}
+.qiymet {
+  padding: 20px 0 !important;
+  border-bottom: 1px solid #a3a3a3;
+  font-weight: 600;
+  font-family: Poppins;
+  font-size: 28px;
+  margin-bottom: 40px !important;
+}

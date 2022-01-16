@@ -1,0 +1,83 @@
+.tovari {
+  max-width: 1600px;
+  width: 100%;
+  padding: 40px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.name {
+  color: black;
+  font-weight: 600;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: medium;
+  line-height: 72px;
+}
+.total {
+  max-width: 410px;
+  width: 100%;
+  height: 368px;
+  margin-top: 60px !important;
+  border-radius: 10px;
+  border: 1px solid #a3a3a3;
+  padding: 20px !important;
+}
+.total > div {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 35px !important;
+}
+.total input {
+  max-width: 320px;
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+  outline: none;
+  border: 1px solid #a3a3a3;
+  padding-left: 20px !important;
+}
+
+.total > div > button {
+  outline: none;
+  border: 1px solid #a3a3a3;
+  background-color: #fff;
+  border-radius: 5px;
+  max-width: 40px;
+  width: 100%;
+  height: 40px;
+  margin-left: 4px !important;
+}
+.text {
+  font-size: 18px;
+  color: black;
+}
+.all {
+  font-weight: 600;
+  font-size: 24px;
+  color: black;
+}
+.price {
+  font-size: 18px;
+}
+.price_total {
+  font-weight: 600;
+
+  font-size: 24px;
+}
+.total > button {
+  width: 100% !important;
+  height: 40px;
+  border-radius: 10px;
+  background-color: #00a651;
+  color: #fff;
+  font-size: 18px;
+  outline: none;
+  border: none;
+}
+.empty {
+  font-size: 30px;
+  width: 80%;
+  margin-top: 10px !important;
+}
